@@ -1,5 +1,5 @@
 #!/bin/bash
 mkdir zeeshan
-cd user1
+cd zeeshan
 mkdir user2
 touch user.txt
