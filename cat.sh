@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir zeesh
-cd zeesh
+mkdir zeeshan
+cd zeeshan
 mkdir user3
 touch user.txt
