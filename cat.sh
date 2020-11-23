@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir zishan
+mkdir zish
 cd zish
 mkdir user3
 touch user.txt
