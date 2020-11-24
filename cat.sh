@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir linux
-cd sonu
+mkdir ubuntu
+cd ubuntu
 mkdir user3
 touch user.txt
